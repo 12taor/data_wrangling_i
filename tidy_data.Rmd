@@ -125,7 +125,3 @@ fas_df <-
   arrange(litter_number) %>% 
   relocate(litter_number, dose, day_of_tx)
 ```
-
- 
- 
- 
